@@ -1,4 +1,4 @@
-# OpenModelica-based-Simulator-for-the-Cardiovascular-and-Respiratory-Physiology
+# Supplementary material of the article "OpenModelica-based virtual simulator for the cardiovascular and respiratory physiology of a neonate"
 This repository contains the data information to fit the model of the following scientific article:
 
 <html>
